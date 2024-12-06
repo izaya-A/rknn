@@ -1,0 +1,3 @@
+/home/firefly/lff/new_pjt/build/CMakeFiles/rebuild_cache.dir
+/home/firefly/lff/new_pjt/build/CMakeFiles/edit_cache.dir
+/home/firefly/lff/new_pjt/build/CMakeFiles/rknn_yolov8_demo.dir
